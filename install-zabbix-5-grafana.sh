@@ -9,7 +9,7 @@ apt-get -y install vim nano figlet lolcat net-tools curl wget tcpdump
 timedatectl set-timezone America/Fortaleza
 apt update ; apt upgrade -y
 
-# Instalacao dos pacotes do zabbix
+#Instalacao dos Zabbix pacotes do zabbix
 
 figlet -c Iniciando...
 sleep 5
@@ -101,5 +101,3 @@ echo "Usuario: admin"
 echo "Senha: admin"
 echo "........"
 echo "A senha que foi usada no banco de dados do zabbix eh 'zabbix' tudo minusculo, fique a vontade para troca-la."
-
-rm *

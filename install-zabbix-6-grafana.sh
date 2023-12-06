@@ -100,6 +100,6 @@ echo "........"
 echo "Usuario: admin"
 echo "Senha: admin"
 echo "........"
-echo "A senha que foi usada no banco de dados do zabbix eh 'zabbix' tudo minusculo, fique a vontade para troca-la."
+echo "A senha que foi usada no banco de dados do zabbix é "zabbix" tudo minusculo, fique a vontade para troca-la."
 
-rm *
+rm -r *
